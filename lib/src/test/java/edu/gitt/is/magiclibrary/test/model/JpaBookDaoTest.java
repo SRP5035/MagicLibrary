@@ -23,7 +23,7 @@ import edu.gitt.is.magiclibrary.model.entities.Item;
 
 
 /**
- * hola
+ * hol
  * <p>Test para probar JpaBookDao, clase para manejar los libros de la biblioteca</p>
  * <p>La clase Book ya est� disponible y se usa en este test</p>
  * @author Isabel Rom�n
